@@ -1,0 +1,13 @@
+C:\Users\Adriana\source\repos\EventBN\EventBN\bin\Debug\netstandard2.0\EventBN.deps.json
+C:\Users\Adriana\source\repos\EventBN\EventBN\bin\Debug\netstandard2.0\EventBN.dll
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\EventBN.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\EventBN.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\EventBN\EventBN\bin\Debug\netstandard2.0\ref\EventBN.dll
+C:\Users\Adriana\source\repos\EventBN\EventBN\bin\Debug\netstandard2.0\EventBN.pdb
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\EventBN.dll
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\ref\EventBN.dll
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\EventBN.pdb
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adriana\source\repos\EventBN\EventBN\obj\Debug\netstandard2.0\EventBN.csprojAssemblyReference.cache
