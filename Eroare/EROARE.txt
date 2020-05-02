@@ -1,1 +1,0 @@
-Am această problemă cand vreau să vad proiectul folosind emulatorul. Build-ul merge perfect, dar după imi apare ceea ce vedeti in poza. Nu stiu cum sa rezov asta și am incercat in diferite modalitati sa ma conectez la baza mea de date pe care am creat-o in DB Browser.
